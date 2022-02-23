@@ -1,0 +1,8 @@
+body {background-color: #D8D6CE;}
+h1{font-family: zapfino; border-style: ridge; border-width: 4px; border-color:  black; text-align: center;}
+h2{font-family: arial black;}
+p{font-family: Helvetica; font-size: 18px;}
+img{border-style: groove; border-width: 20px;}
+.center{display: block;margin-left: auto; margin-right:  auto; width: 50;}
+li{display: inline;}
+
